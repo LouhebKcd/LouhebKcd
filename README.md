@@ -3,11 +3,10 @@
 Salut, moi c'est Louheb, un aventurier du code en quête de l'extraordinaire dans le monde du développement informatique et de l'Intelligence Artificielle. 🌐✨
 
 ## Parcours Académique
-- **Licence Informatique**
-  - **L1 / L2 Informatique**
-    - 🎓 Université de Caen Normandie, France (2021 / 2023 )
+- **M1 Informatique - Data Science**
+  - 🎓 Université de Caen Normandie, France (2024 / 2025 )
 - **L3 Informatique**
-  - 🚀 Actuellement en mission de conquête à l'Université de Caen Normandie, France (2023 / 2024 )
+  - 🚀 Actuellement en mission de conquête à l'Université de Caen Normandie, France (2021 / 2024 )
 - **Baccalauréat Scientifique**
   - 🎓 Lycée des Frères Yahoui, Illilten, Algérie (2020 / 2021 )
 
@@ -24,18 +23,18 @@ Salut, moi c'est Louheb, un aventurier du code en quête de l'extraordinaire dan
 ## Langues
 - 🇫🇷 Français (Excellente maîtrise)
 - 🇬🇧 Anglais (Bonne maîtrise)
-- 🇰🇵 Kabyle (Langue maternelle)
-- 🇦🇪 Arabe
+-  Kabyle (Langue maternelle)
+-  Arabe (Bonne maitrise)
 
 ## Compétences Techniques
 - 💻 Langages de programmation: Java, C, Python, PHP, Haskell
 - 🌐 Développement web: HTML, CSS, JavaScript, React Native
-- 🗃️ Bases de données: SQL
+- 🗃️ Bases de données: SQL, MangoDB, PostgreSql
 - 🧠 Algorithmique avancée & programmation fonctionnelle
 - 🤖 Aide à la décision en Intelligence Artificielle
 - 🎨 Implémentation de Design Patterns en POO
 
 ## Contact & Informations
 - ✉️ kacedlouheb@gmail.com
-- 
+  
 Rejoignez-moi dans mon voyage intergalactique du code, où la créativité rencontre l'expertise! 🚀🌌
