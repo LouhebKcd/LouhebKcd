@@ -3,12 +3,11 @@
 Salut, moi c'est Louheb, un aventurier du code en quête de l'extraordinaire dans le monde du développement informatique et de l'Intelligence Artificielle. 🌐✨
 
 ## Parcours Académique
-- **M1 Informatique - Data Science**
-  - 🎓 Université de Caen Normandie, France (2024 / 2025 )
-- **L3 Informatique**
-  - 🚀 Actuellement en mission de conquête à l'Université de Caen Normandie, France (2021 / 2024 )
-- **Baccalauréat Scientifique**
-  - 🎓 Lycée des Frères Yahoui, Illilten, Algérie (2020 / 2021 )
+- **M2 Informatique - Data Science**
+  - 🎓 Université de Caen Normandie, France (2024 / Présent )
+- **L Informatique**
+  - 🚀 Université de Caen Normandie, France (2021 / 2024 )
+
 
 ## Expérience Pratique
 - **Développement de jeux en Java**
