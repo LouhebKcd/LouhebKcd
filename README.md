@@ -1,39 +1,119 @@
-# Louheb Kaced - Le Codeur Créatif 🚀
+# 👋 Moi c’est Louheb — Data Scientist & Codeur Créatif 🚀
 
-Salut, moi c'est Louheb, un aventurier du code en quête de l'extraordinaire dans le monde du développement informatique et de l'Intelligence Artificielle. 🌐✨
+Aventurier du code et passionné par la **Data Science**, le **Machine Learning** et le **Deep Learning**, j’explore la frontière entre **modèles intelligents** et **développement logiciel**.  
 
-## Parcours Académique
-- **M2 Informatique - Data Science**
-  - 🎓 Université de Caen Normandie, France (2024 / Présent )
-- **L Informatique**
-  - 🚀 Université de Caen Normandie, France (2021 / 2024 )
+🎯 Actuellement en **Master 2 Informatique – Data Science** à l’Université de Caen Normandie, je suis à la recherche d’un **stage de 6 mois en Data Science / Machine Learning à partir de février 2025**.
 
+---
 
-## Expérience Pratique
-- **Développement de jeux en Java**
-  - 🎮 Concepteur de mondes virtuels, manipulateur de design patterns.
+## 🎓 Parcours académique
 
-- **L-System Generator (2D/3D, Contextuel, Stochastique)**
-  - 🌀 Maestro des fractales en 2D et 3D avec un générateur L-System en Java.
-  - 
-- **Mini-Sites Dynamiques (HTML, CSS, PHP, MySQL, React Native)**
-  - 🌐 Créateur de mini-mondes interactifs avec HTML, CSS, PHP, MySQL, React Native, JavaScript.
+- **Master 2 Informatique – Data Science** (2024 – 2025)  
+  Université de Caen Normandie, France  
 
-## Langues
-- 🇫🇷 Français (Excellente maîtrise)
-- 🇬🇧 Anglais (Bonne maîtrise)
--  Kabyle (Langue maternelle)
--  Arabe (Bonne maitrise)
+- **Licence Informatique** (2021 – 2024)  
+  Université de Caen Normandie, France  
 
-## Compétences Techniques
-- 💻 Langages de programmation: Java, C, Python, PHP, Haskell
-- 🌐 Développement web: HTML, CSS, JavaScript, React Native
-- 🗃️ Bases de données: SQL, MangoDB, PostgreSql
-- 🧠 Algorithmique avancée & programmation fonctionnelle
-- 🤖 Aide à la décision en Intelligence Artificielle
-- 🎨 Implémentation de Design Patterns en POO
+---
 
-## Contact & Informations
-- ✉️ kacedlouheb@gmail.com
-  
-Rejoignez-moi dans mon voyage intergalactique du code, où la créativité rencontre l'expertise! 🚀🌌
+## 🚀 Projets & expériences académiques
+
+### 🧠 Inpainting & Outpainting d’images avec modèles de diffusion (2024 – Présent)  
+*Projet académique – Deep Learning*  
+- Data pipeline complet sur **CIFAR-10** : génération de masques, data augmentation, fine-tuning de modèles de diffusion  
+- Expérimentations en **computer vision** avec optimisation des hyperparamètres (scheduler, bruit, itérations)  
+- **Tech :** Python, PyTorch, Diffusers, Computer Vision  
+
+---
+
+### 🌐 Classification du genre de pages web (2024 – 2025)  
+*Projet de recherche avec Babbar & doctorant GREYC*  
+- Feature engineering combinant **NLP** (analyse textuelle) et structure **DOM**  
+- Benchmark de modèles de ML atteignant **92% de F1-score** sur KI-04 et PAGA-12  
+- **Tech :** Python, Scikit-learn, spaCy, NLP  
+
+---
+
+### 🚢 Analyse prédictive des trajectoires maritimes (2024 – 2025)  
+*Projet académique – Sinay*  
+- Extraction de lignes maritimes via **PrefixSpan** sur des milliers de trajets AIS (Big Data)  
+- Analyse de séries temporelles et modélisation via **chaînes de Markov multi-ordre**  
+- **Tech :** Python, Scikit-learn, Pandas, Spark, Time Series, SPMF, PrefixSpan  
+
+---
+
+### 📊 Data Warehouse & Business Intelligence (2024 – 2025)  
+*Projet académique*  
+- Conception de **data pipelines ETL** (Apache Hop)  
+- Modélisation dimensionnelle, **cubes OLAP**, requêtes MDX  
+- Dashboards interactifs avec **D3.js**  
+- **Tech :** Apache Hop, SQL, D3.js, ETL, OLAP  
+
+---
+
+### 🏫 Plateforme Web Académique – Full-stack (2024 – Présent)  
+*Projet académique – E-Campus Solutions*  
+- Architecture **full-stack** pour une plateforme web académique (type CRM/LMS)  
+- Backend orienté **data pipeline** et APIs REST  
+- **Tech :** React, Node.js, Express, PostgreSQL, REST API  
+
+---
+
+### 🎮 Projets développement logiciel & IA (2021 – 2024)  
+*Projets académiques*  
+- **IA pour jeux** : Tetris, Bataille navale, Tron, Tour de Hanoï  
+  - Algorithmes : A*, Dijkstra, MaxN, backtracking, MAC  
+- **Générateur de fractales L-System 2D/3D** avec design patterns avancés  
+- Architecture **MVC**, **POO** et **programmation fonctionnelle** en pratique  
+
+---
+
+## 🧰 Stack technique
+
+### 🤖 Machine Learning, Deep Learning & IA  
+- **ML & statistiques :** classification, régression, clustering, réduction de dimension, feature engineering  
+- **Deep Learning :** CNN, RNN, LSTM, GAN, modèles de diffusion, reinforcement learning  
+- **Domaines :** computer vision, NLP, séries temporelles  
+- **Librairies :** TensorFlow, PyTorch, Keras, Scikit-learn, spaCy, OpenCV  
+
+### 🛠 Data Engineering & Big Data  
+- Conception de **data pipelines** & **ETL** (Apache Hop)  
+- Analyse de séries temporelles, OLAP, MDX  
+- NumPy, Pandas, SciPy, Spark, Jupyter  
+
+### 💾 Bases de données & BI  
+- **SGBD :** MySQL, PostgreSQL, MongoDB  
+- **DataViz / BI :** Matplotlib, Seaborn, D3.js, Power BI, R  
+
+### 💻 Développement logiciel & Web  
+- **Langages :** Python, Java, C, PHP, JavaScript/TypeScript, Haskell  
+- **Web :** HTML, CSS, React, React Native, Node.js, Express, REST/GraphQL  
+- **Conception :** POO, programmation fonctionnelle, design patterns, algorithmique avancée, architecture MVC  
+
+### ☁️ Cloud & DevOps  
+- Azure Fundamentals  
+- Docker, CI/CD  
+- Git (GitHub / GitLab), Jira  
+
+---
+
+## 🌍 Langues
+
+- 🇫🇷 **Français** : bilingue  
+- 🇬🇧 **Anglais** : intermédiaire (B1/B2)  
+- 🟡 **Kabyle** : langue maternelle  
+- 🟢 **Arabe** : bonne maîtrise  
+
+---
+
+## 📫 Me contacter
+
+- ✉️ **Email :** kacedlouheb@gmail.com  
+- 🔗 **LinkedIn :** [linkedin.com/in/LouhebKcd](https://linkedin.com/in/LouhebKcd)  
+- 💻 **GitHub :** [github.com/LouhebKcd](https://github.com/LouhebKcd)  
+- 📍 Basé à **Caen, France**  
+
+---
+
+> Rejoignez-moi dans mon voyage intergalactique de la data et du code,  
+> où la **créativité** rencontre la **rigueur scientifique**. 🚀🌌
