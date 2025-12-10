@@ -1,6 +1,6 @@
 # 👋 Moi c’est Louheb — Data Scientist & Codeur Créatif 🚀
 
-Aventurier du code et passionné par la **Data Science**, le **Machine Learning** et le **Deep Learning**, j’explore la frontière entre **modèles intelligents** et **développement logiciel**.  
+Aventurier du code et passionné par la **L'ingénierie Logicielle**,**le Développement Web**, **Data Science** et le **Machine Learning**, j’explore la frontière entre **modèles intelligents** et **développement logiciel**.  
 
 🎯 Actuellement en **Master 2 Informatique – Data Science** à l’Université de Caen Normandie, je suis à la recherche d’un **stage de 6 mois en Data Science / Machine Learning à partir de février 2025**.
 
